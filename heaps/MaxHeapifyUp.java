@@ -1,4 +1,5 @@
-public class MaxHeapifyUp {
+public class MaxHeapifyUp
+{
     public static void heapifyUp(int[] heap, int index)
     {
         while (index > 0)
